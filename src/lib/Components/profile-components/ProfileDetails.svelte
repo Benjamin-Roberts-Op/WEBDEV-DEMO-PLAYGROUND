@@ -1,5 +1,5 @@
 <script>
-	import dancingCat from '$lib/assets/images/image.gif';
+
 </script>
 
 <article>
@@ -15,4 +15,5 @@
 </article>
 
 <style>
+
 </style>
